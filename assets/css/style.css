@@ -1,16 +1,11 @@
-.fzz{
-    color:red;
+
+.my_wh{
+
+max-height: 80px;
+
+    line-height: 70px;
+    font-weight: 900;
+    font-size: medium;
+    text-wrap: nowrap;
 }
 
-.bzz{
-    color:blue
-}
-
-.number{
-    color: green
-}
-
-.square{
-    width: 30px;
-    height: 30px;
-}
