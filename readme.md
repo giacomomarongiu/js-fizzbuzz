@@ -16,8 +16,17 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 ## Steps
 - Creo un ciclo for che mi permetta di re-iterare il mio codice per 100 volte
 - Verifico che lo faccia attraverso il console.log
+- Faccio si che per i multipli di 3 stampi "Fizz" attraverso l'operatore %
+- Verifico che lo faccia attraverso il console.log
+- Faccio si che per i multipli di 5 stampi "Buzz" attraverso l'operatore %
+- Verifico che lo faccia attraverso il console.log
+- Faccio si che per i multipli di 5 e 3 stampino "FizzBuzz" attraverso l'operatore %
+- Verifico che lo faccia attraverso il console.log
 
 
 ### Tools
-- Ciclo for
+- Ciclo for con contatore, condizione, incremento
 - Console log
+- Operatore % (Reminder)
+- If
+- Operatore && (And)
