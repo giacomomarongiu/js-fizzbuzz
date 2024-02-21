@@ -1,11 +1,8 @@
 
 .my_wh{
-
-max-height: 80px;
-
     line-height: 70px;
-    font-weight: 900;
-    font-size: medium;
+    font-weight: 800;
     text-wrap: nowrap;
+    aspect-ratio: 1/1;
 }
 
