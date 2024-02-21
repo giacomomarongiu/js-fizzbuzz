@@ -8,9 +8,9 @@ Consigli del giorno:
 Scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 Proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 :insect: Ricordate di usare il console.log() sia in fase di preparazione e verifica dei dati che ovviamente durante il degugging per scovare potenziali errori!
-BONUS 1:
+# BONUS 1:
 Crea un container nel DOM , aggiungendo (attraverso la funzione append()) un elemento html con il numero o la stringa corretta da mostrare.
-BONUS 2:
+# BONUS 2:
 Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda che il valore inserito sia un numero, un fizz, un buzz o un fizzbuzz. Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot fornito in consegna.
 
 ## Steps
@@ -22,7 +22,11 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 - Verifico che lo faccia attraverso il console.log
 - Faccio si che per i multipli di 5 e 3 stampino "FizzBuzz" attraverso l'operatore %
 - Verifico che lo faccia attraverso il console.log
-
+## BONUS 1
+- Inizializzo due variabili per gli elementi del DOM
+- Aggiungo gli elementi al DOM
+- Assegno la classe container
+- Ogni volta che il ciclo si ripete aggiungo uno span dove stampo il valore
 
 ### Tools
 - Ciclo for con contatore, condizione, incremento
