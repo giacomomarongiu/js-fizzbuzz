@@ -28,6 +28,9 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 - Assegno la classe container
 - Ogni volta che il ciclo si ripete aggiungo uno span dove stampo il valore
 
+## BONUS 2
+- Aggiungo stile tramite le classi
+
 ### Tools
 - Ciclo for con contatore, condizione, incremento
 - Console log
